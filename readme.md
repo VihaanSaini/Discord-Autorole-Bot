@@ -15,3 +15,6 @@ Just a very simple Discord Auto Role bot. That will manage auto roles in your di
 
 # Screenshot
 ![Watch]![Autoroleexample](https://user-images.githubusercontent.com/87207836/152705793-9d973414-06eb-4cae-a6fe-2c86e34701e2.png)
+
+# Support
+If you have any issues setting this up join my discord and I will help you https://discord.gg/PCypEXv5Wa
