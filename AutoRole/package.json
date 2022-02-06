@@ -1,0 +1,15 @@
+{
+  "name": "discord-auto-role",
+  "version": "1.0.0",
+  "description": "Just a simple bot that will do auto roles for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vihaan Saini",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "discord.js": "^13.4.0"
+  }
+}
