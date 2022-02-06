@@ -11,6 +11,7 @@ Just a very simple Discord Auto Role bot. That will manage auto roles in your di
 - Edit config
 - run setup.bat
 - run start.bat
+- And Enjoy
 
 # Screenshot
-![Watch](https://lh3.googleusercontent.com/9HMwe0MWC_jn9xZ6btYnBaCG7rCYbWJ4PeQ5X4YeifPD7CHxN5lq-QKIaEDFL5LReiCpvwjXXCgRi1ZhSKHCZ5d8_xHN883ZJJyno7HBP2ZZqqJ6ixwG9a_UuBs6CWIEsQ=w1280)
+![Watch]![Autoroleexample](https://user-images.githubusercontent.com/87207836/152705793-9d973414-06eb-4cae-a6fe-2c86e34701e2.png)
