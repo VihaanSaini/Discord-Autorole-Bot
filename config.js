@@ -7,7 +7,7 @@ const config = {
     // Embed Settings \\
     embed: {
         color: "#5865F2",
-        footer: "VS Autorole"
+        footer: "Talkative Development"
     },
 
     // Perms \\ 
