@@ -4,7 +4,7 @@ const config = require('./config');
 
 
 VS.on('ready', () => {
-    console.log(`I have connected to ${VS.user.tag} and watching ${VS.guilds.cache.size} servers.`)
+    console.log(`Connected to ${VS.user.tag} and watching ${VS.guilds.cache.size} server(s).`)
 })
 
 
@@ -76,6 +76,6 @@ VS.on('interactionCreate', async(interaction) => {
 
 VS.login(config.token).catch(e => {
     if (e) {
-        console.log(` You have an invalid token in config.js`)
+        console.log(` You have an invalid token/No token added  in config.js`)
     }
 })
